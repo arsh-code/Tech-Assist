@@ -75,7 +75,7 @@ while True:
         else:
             print("I cant do that. Please try something else")
 
-    elif("terminate" in p) or ("stop" in p) or ("end" in p) or ("close" in p) or ("exit" in p):
+    elif("terminate" in p) or ("stop" in p) or ("end" in p) or ("close" in p) or ("exit" in p) or ("quit" in p):
         break
 
     else:
